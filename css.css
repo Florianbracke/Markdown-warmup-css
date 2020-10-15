@@ -1,0 +1,51 @@
+img {
+    border-radius: 8px
+}
+div.photoquote {
+    text-align: center
+}
+
+div.photo {
+    width: 600px;
+}
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 50%;
+    width: 200px;
+
+}
+
+div.quote {
+    text-align: center;
+}
+table, th, td {
+    border: 5px solid rgb(204,132,50);
+    border-collapse:collapse    ;
+    width: 100%;
+    table-layout: fixed;
+    padding: 5px
+    
+}
+p.w {
+    text-align: center;
+}
+body {
+    background: rgb(204,132,50);
+background: radial-gradient(circle, rgba(204,132,50,1) 0%, rgba(218,173,116,1) 53%, rgba(222,185,136,1) 57%, rgba(228,203,166,1) 77%, rgba(235,224,201,1) 100%);
+}
+
+.div1 {
+    width: auto;
+    height: auto;
+    border: 5px solid rgb(204,132,50);
+    padding: 5px solid green;
+    
+}
+.div2 {
+    width: auto;
+    height: auto;
+    border: 5px solid rgb(204,132,50);
+    padding: 5px solid green;
+    text-align: left;
